@@ -7,7 +7,7 @@ Must find properties in the San Francisco market that are viable investment oppo
 
 Technologies This program was created using Python and juypter notebook
 
-Installation Guide git clone https://github.com/chance2424/CryptoandStockPortfolio
+Installation Guide git clone https://github.com/chance2424/Housing-Rental-Analysis-for-San-Francisco
 
 Contributors Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin
 
